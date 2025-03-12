@@ -44,11 +44,10 @@ Sound On Spot 👌
 
 ## Authors
 
-- [@Nouran Hassan](https://github.com/Nouran246)
-- [@Malak Mohamed](https://github.com/MalakMohameed)
-- [@Yahia-Elshobokshy](https://github.com/Yahia-Elshobokshy)
-- [@Laila Amgad](https://github.com/Laila4563)
-- [@Roaa Khaled](https://github.com/Rowlkh)
+- [@Asad Ullah Qadir](https://github.com/Asadullahqadir-1/Asad)
+- [@Muhammad Haider](https://github.com/Haiderali27-hub)
+- [@Zohaib Iqbal](https://github.com/Zohaibiqbal797)
+
 
 # Landing Page
 
